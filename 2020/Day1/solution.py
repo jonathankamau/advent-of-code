@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 class Sum:
 
@@ -27,7 +28,6 @@ class Sum:
     def getThreeSum(self, year):
 
         nums = self.readFile()
-        print('nums', nums)
 
         second_pair = 0
 
